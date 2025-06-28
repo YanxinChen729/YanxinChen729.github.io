@@ -18,12 +18,12 @@ My research interests include:
 - Biomedical time-series forecasting
 - AI for healthcare
 
-[🖥 View My CV (PDF)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/YanxinChen729/YanxinChen729.github.io/main/docs/CV_YanxinChen.pdf)
+[👀 View My CV (PDF)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/YanxinChen729/YanxinChen729.github.io/main/docs/CV_YanxinChen.pdf)
 
 
 # 📖 Educations
 - *Aug. 2023 – Aug. 2024*, **Johns Hopkins University**, MSc in Applied Economics
-- *Sept. 2018 – Jun. 2022*, **Donghua University**, BManagement in Accounting (GPA: 3.9/4.0)
+- *Sept. 2018 – Jun. 2022*, **Donghua University**, Bachelor of Management in Accounting (GPA: 3.9/4.0)
 
 # 💻 Research and Internships
 - *Apr. 2025 – Present*, Zhejiang University School of Medicine – EEG & BrainPy modeling for auditory response  
