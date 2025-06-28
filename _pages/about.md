@@ -18,7 +18,8 @@ My research interests include:
 - Biomedical time-series forecasting
 - AI for healthcare
 
-[📄 Download My CV (PDF)](docs/CV_YanxinChen.pdf)
+[🖥 View My CV (PDF)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/YanxinChen729/YanxinChen729.github.io/main/docs/CV_YanxinChen.pdf)
+
 
 # 📖 Educations
 - *Aug. 2023 – Aug. 2024*, **Johns Hopkins University**, MSc in Applied Economics
