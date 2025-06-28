@@ -20,10 +20,6 @@ My research interests include:
 
 [📄 Download My CV (PDF)](/docs/CV_YanxinChen.pdf)
 
-# 📝 Publications 
-- **Chen, Y.** et al. *Hierarchical temporal processing in the primate thalamocortical system*. Under review, 2025.  
-- **Chen, Y.** et al. *A neural indicator of temporal integration in the human auditory brain*. Under review, 2025.
-
 # 📖 Educations
 - *Aug. 2023 – Aug. 2024*, **Johns Hopkins University**, MSc in Applied Economics
 - *Sept. 2018 – Jun. 2022*, **Donghua University**, BManagement in Accounting (GPA: 3.9/4.0)
@@ -35,6 +31,27 @@ My research interests include:
 - *Sept. 2024 – Apr. 2025*, Holarte Tech, Hangzhou – Healthcare Data Analyst Intern
 - *Jul. 2022 – Sept. 2022*, State Grid – Financial Data Analyst Intern
 - *Dec. 2020 – Mar. 2021*, BDO China Shu Lun Pan CPAs – Audit Intern, Data Analytics Group
+
+# 📂 Projects
+- **Neural Offset Response Modeling**  
+  Simulated auditory cortical offset responses with BrainPy. Developed delay-based synaptic networks and matched offset spike raster to empirical figures.
+  
+- **Financial Analysis of Yili Group**  
+  Conducted in-depth analysis of a leading dairy company using Python and Excel. Applied forecasting, ratio analysis, and industry benchmarking. 
+
+- **Blockchain-Based Accounting Reform**  
+  Collaborated on a research project analyzing blockchain applications in digital ledger systems and ESG compliance. Drafted reform proposals using smart contracts.
+
+# 📝 Publications 
+- **Chen, Y.** et al. *Hierarchical temporal processing in the primate thalamocortical system*. Under review, 2025.  
+- **Chen, Y.** et al. *A neural indicator of temporal integration in the human auditory brain*. Under review, 2025.
+
+# 🧠 Skills
+- **Programming:** Python (PyTorch, BrainPy, scikit-learn), R, SQL, HTML/CSS, Bash
+- **Data Tools:** Jupyter, VS Code, Git/GitHub, Excel, SPSS, STATA
+- **AI/ML:** LSTM/GRU, CNNs, scikit-learn pipelines, STFT/wavelet feature extraction
+- **Scientific Computing:** Signal processing, time-series forecasting, computational neuroscience
+- **Languages:** English (fluent), Chinese (native)
 
 # 🎖 Honors and Awards
 - Excellent Graduate, Donghua University (2022)  
