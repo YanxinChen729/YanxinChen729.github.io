@@ -25,7 +25,7 @@ My research interests include:
 - *Aug. 2023 – Aug. 2024*, **Johns Hopkins University**, MSc in Applied Economics
 - *Sept. 2018 – Jun. 2022*, **Donghua University**, BManagement in Accounting (GPA: 3.9/4.0)
 
-# 💻 Research & Internships
+# 💻 Research and Internships
 - *Apr. 2025 – Present*, Zhejiang University School of Medicine – EEG & BrainPy modeling for auditory response  
 - *Jun. 2025 – Present*, Carnegie Mellon University – ICU-based time-series modeling for sepsis prediction  
 - *Jan. 2024 – Jun. 2024*, University of Illinois Urbana-Champaign (NCSA) – Spatial transcriptomics modeling & 3D tissue reconstruction  
