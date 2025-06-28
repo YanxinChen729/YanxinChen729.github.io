@@ -48,10 +48,7 @@ My research interests include:
 - **Chen, Y.** et al. *A neural indicator of temporal integration in the human auditory brain*. Under review, 2025.
 
 # 🧠 Skills
-- **Programming:** Python (PyTorch, BrainPy, scikit-learn), R, SQL, HTML/CSS, Bash
-- **Data Tools:** Jupyter, VS Code, Git/GitHub, Excel, SPSS, STATA
-- **AI/ML:** LSTM/GRU, CNNs, scikit-learn pipelines, STFT/wavelet feature extraction
-- **Scientific Computing:** Signal processing, time-series forecasting, computational neuroscience
+- **Programming & Tools:** Programming & Tools: Python (Pandas, NumPy, PyTorch, scikit-learn, BrainPy), SQL, STATA, SPSS, Excel
 - **Languages:** English (fluent), Chinese (native)
 
 # 🎖 Honors and Awards
