@@ -13,12 +13,12 @@ redirect_from:
 Hi, I’m **Yanxin Chen**, a Research Assistant in Computational Neuroscience with a background in applied economics and medical AI.
 I work on EEG modeling, BrainPy-based simulations, and time-series prediction for clinical signals such as sepsis onset.
 
-[📄 Download My CV (PDF)](/docs/CV_YanxinChen.pdf)
-
 My research interests include:
 - Neural modeling
 - Biomedical time-series forecasting
 - AI for healthcare
+
+[📄 Download My CV (PDF)](/docs/CV_YanxinChen.pdf)
 
 # 📝 Publications 
 - **Chen, Y.** et al. *Hierarchical temporal processing in the primate thalamocortical system*. Under review, 2025.  
