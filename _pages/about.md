@@ -28,7 +28,6 @@ My research interests include:
 # 💻 Research and Internships
 - *Apr. 2025 – Present*, Zhejiang University School of Medicine – EEG & BrainPy modeling for auditory response  
 - *Jun. 2025 – Present*, Carnegie Mellon University – ICU-based time-series modeling for sepsis prediction  
-- *Jan. 2024 – Jun. 2024*, University of Illinois Urbana-Champaign (NCSA) – Spatial transcriptomics modeling & 3D tissue reconstruction  
 - *Sept. 2024 – Apr. 2025*, Holarte Tech, Hangzhou – Healthcare Data Analyst Intern
 - *Jul. 2022 – Sept. 2022*, State Grid – Financial Data Analyst Intern
 - *Dec. 2020 – Mar. 2021*, BDO China Shu Lun Pan CPAs – Audit Intern, Data Analytics Group
