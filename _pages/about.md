@@ -33,6 +33,9 @@ My research interests include:
 - *Dec. 2020 – Mar. 2021*, BDO China Shu Lun Pan CPAs – Audit Intern, Data Analytics Group
 
 # 📂 Projects
+- **Stock Trading Web Application**  
+  Built a full-stack stock trading platform with Python (Flask), SQLite, and Jinja. Implemented user registration, real-time stock quoting, buying/selling shares, and transaction history.
+  
 - **Neural Offset Response Modeling**  
   Simulated auditory cortical offset responses with BrainPy. Developed delay-based synaptic networks and matched offset spike raster to empirical figures.
   
