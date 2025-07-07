@@ -35,6 +35,9 @@ My research interests include:
 # 📂 Projects
 - **Stock Trading Web Application**  
   Built a full-stack stock trading platform with Python (Flask), SQLite, and Jinja. Implemented user registration, real-time stock quoting, buying/selling shares, and transaction history.
+
+- **Budget Tracker Application** 
+  Designed a personal budgeting application using Python (Tkinter), SQLite, and Plotly. Implemented CRUD features, graphical summaries, and a structured UI.
   
 - **Neural Offset Response Modeling**  
   Simulated auditory cortical offset responses with BrainPy. Developed delay-based synaptic networks and matched offset spike raster to empirical figures.
