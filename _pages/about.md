@@ -50,7 +50,7 @@ My research interests include:
 
 # 📝 Publications 
 - **Chen, Y.** et al. *Hierarchical temporal processing in the primate thalamocortical system*. Under review, 2025.  
-- **Chen, Y.** et al. *A neural indicator of temporal integration in the human auditory brain*. Under review, 2025.
+- **Chen, Y.** et al. *A neural indicator of temporal integration in the human auditory brain*. Accepted for publication in *Communications Biology*, 2025.
 
 # 🧠 Skills
 - **Programming & Tools:** Programming & Tools: Python (Pandas, NumPy, PyTorch, scikit-learn, BrainPy), SQL, STATA, SPSS, Excel
