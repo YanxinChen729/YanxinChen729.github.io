@@ -10,13 +10,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m **Yanxin Chen**, a Research Assistant in Computational Neuroscience with a background in applied economics and medical AI.
-I work on EEG modeling, BrainPy-based simulations, and time-series prediction for clinical signals such as sepsis onset.
+Hi, I’m **Yanxin Chen**, a Research Assistant in Computational Neuroscience and Information Systems, with a background in applied economics and medical AI.  
+I work on EEG modeling, BrainPy-based neural simulations, ICU time-series prediction, and stock network visualizations using dynamic graph techniques.
 
 My research interests include:
 - Neural modeling
 - Biomedical time-series forecasting
 - AI for healthcare
+- Network science and dynamic visualization
 
 [👀 View My CV (PDF)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/YanxinChen729/YanxinChen729.github.io/main/docs/CV_YanxinChen.pdf)
 
@@ -26,10 +27,11 @@ My research interests include:
 - *Sept. 2018 – Jun. 2022*, **Donghua University**, Bachelor of Management in Accounting (GPA: 3.9/4.0)
 
 # 💻 Research and Internships
-- *Apr. 2025 – Present*, Zhejiang University School of Medicine – EEG & BrainPy modeling for auditory response  
-- *Jun. 2025 – Present*, Carnegie Mellon University – ICU-based time-series modeling for sepsis prediction  
-- *Sept. 2024 – Apr. 2025*, Holarte Tech, Hangzhou – Healthcare Data Analyst Intern
-- *Jul. 2022 – Sept. 2022*, State Grid – Financial Data Analyst Intern
+- *Jul. 2025 – Present*, University of Illinois Urbana-Champaign – Visual analytics of dynamic stock networks using community detection and graph modeling   
+- *Jun. 2025 – Present*, Carnegie Mellon University – ICU-based time-series modeling for sepsis prediction
+- *Apr. 2025 – Present*, Zhejiang University School of Medicine – EEG & BrainPy modeling for auditory response   
+- *Sept. 2024 – Apr. 2025*, Holarte Tech, Hangzhou – Healthcare Data Analyst Intern  
+- *Jul. 2022 – Sept. 2022*, State Grid – Financial Data Analyst Intern  
 - *Dec. 2020 – Mar. 2021*, BDO China Shu Lun Pan CPAs – Audit Intern, Data Analytics Group
 
 # 📂 Projects
@@ -49,11 +51,11 @@ My research interests include:
   Collaborated on a research project analyzing blockchain applications in digital ledger systems and ESG compliance. Drafted reform proposals using smart contracts.
 
 # 📝 Publications 
-- **Chen, Y.** et al. *Hierarchical temporal processing in the primate thalamocortical system*. Under review, 2025.  
-- **Chen, Y.** et al. *A neural indicator of temporal integration in the human auditory brain*. Accepted for publication in *Communications Biology*, 2025.
+- **Chen, Y.** et al. *Hierarchical temporal processing in the primate thalamocortical system*. Under review, 2025  
+- **Chen, Y.** et al. *EEG neural indicator of temporal integration in the human auditory brain*. *Communications Biology*, 2025. [https://doi.org/10.1038/s42003-025-08540-8](https://doi.org/10.1038/s42003-025-08540-8)
 
 # 🧠 Skills
-- **Programming & Tools:** Programming & Tools: Python (Pandas, NumPy, PyTorch, scikit-learn, BrainPy), SQL, STATA, SPSS, Excel
+- **Programming & Tools:** Python (Pandas, NumPy, PyTorch, scikit-learn, BrainPy, Plotly, NetworkX), SQL, STATA, SPSS, Excel  
 - **Languages:** English (fluent), Chinese (native)
 
 # 🎖 Honors and Awards
