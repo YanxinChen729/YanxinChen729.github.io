@@ -10,14 +10,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m **Yanxin Chen**, a Research Assistant in Computational Neuroscience and Information Systems, with a background in applied economics and medical AI.  
-I work on EEG modeling, BrainPy-based neural simulations, ICU time-series prediction, and stock network visualizations using dynamic graph techniques.
+Hi, I’m **Yanxin Chen**, a Research Assistant working at the intersection of **Information Systems**, **Computational Neuroscience**, and **Medical AI**, with a background in applied economics. 
+My work spans EEG neural modeling, ICU time-series prediction, and interactive network visualizations for financial and biomedical systems — combining domain knowledge with informatics and data-driven tools.
 
 My research interests include:
-- Neural modeling
-- Biomedical time-series forecasting
+- Health informatics
+- Neural modeling and brain-inspired computation
 - AI for healthcare
-- Network science and dynamic visualization
+- Dynamic networks and visual analytics in complex systems
 
 [👀 View My CV (PDF)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/YanxinChen729/YanxinChen729.github.io/main/docs/CV_YanxinChen.pdf)
 
