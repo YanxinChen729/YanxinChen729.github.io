@@ -6,7 +6,7 @@
 
 # Site Settings
 title                    : "Yanxin Chen"
-description              : "Research Assistant in Computational Neuroscience and Medical AI"
+description              : "Research Assistant in Informatics, Computational Neuroscience, and Medical AI"
 repository               : "YanxinChen729.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanxin Chen"
   avatar           : "images/avatar.jpg"
-  bio              : "MSc in Applied Economics | Neural modeling & medical AI research"
+  bio              : "MSc in Applied Economics | Research in Health Informatics, Neural Modeling, and Data Visualization"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
